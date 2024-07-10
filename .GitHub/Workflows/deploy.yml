@@ -1,0 +1,13 @@
+https://github.com/SigmaAeon097/Suhail-MD-bot-.giecho "# Suhail-MD-bot-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SigmaAeon097/Suhail-MD-bot-.git
+git push -u origin mainhttps://github.com/SigmaAeon097/Suhail-MD-bot-.gitecho "# Suhail-MD-bot-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SigmaAeon097/Suhail-MD-bot-.git
+git push -u origin main
